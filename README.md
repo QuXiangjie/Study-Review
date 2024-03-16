@@ -5,4 +5,5 @@
 ## Python
 ## Excel
 ## SQL
+[SQL Summary](https://github.com/QuXiangjie/Study-Review/issues/1#issue-2190108775)
 ## 英文
