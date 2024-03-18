@@ -6,5 +6,6 @@
 ## Excel
 ## SQL
 [SQL Summary](https://github.com/QuXiangjie/Study-Review/issues/1#issue-2190108775)
+
 [Choose the Nthhighest score](https://github.com/QuXiangjie/Study-Review/issues/2#issue-2192501103)
 ## 英文
