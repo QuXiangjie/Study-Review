@@ -7,7 +7,13 @@
 ## SQL
 [SQL Summary](https://github.com/QuXiangjie/Study-Review/issues/1#issue-2190108775)
 
+[The order of SQL excution](https://github.com/QuXiangjie/Study-Review/issues/3)
+
 [Choose the Nthhighest score](https://github.com/QuXiangjie/Study-Review/issues/2#issue-2192501103)
+
+[Rank score](https://github.com/QuXiangjie/Study-Review/issues/4)
+
+[180. Consecutive number](https://github.com/QuXiangjie/Study-Review/issues/6)
 ## 英文
 
 ## 闲谈笔记
