@@ -9,3 +9,6 @@
 
 [Choose the Nthhighest score](https://github.com/QuXiangjie/Study-Review/issues/2#issue-2192501103)
 ## 英文
+
+## 闲谈笔记
+
