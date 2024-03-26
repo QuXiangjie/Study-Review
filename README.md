@@ -16,6 +16,12 @@
 [Rank score](https://github.com/QuXiangjie/Study-Review/issues/4)
 
 [180. Consecutive number](https://github.com/QuXiangjie/Study-Review/issues/6)
+
+[182. Duplicate email](https://github.com/QuXiangjie/Study-Review/issues/10)
+
+[183. Customers Who Never Order](https://github.com/QuXiangjie/Study-Review/issues/9)
+
+[184. Department Highest Salary](https://github.com/QuXiangjie/Study-Review/issues/8)
 ## 英文
 
 ## 闲谈笔记
