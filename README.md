@@ -24,6 +24,10 @@
 [184. Department Highest Salary](https://github.com/QuXiangjie/Study-Review/issues/8)
 
 [550. Game-play-analysis-iv](https://github.com/QuXiangjie/Study-Review/issues/11)
+
+[550. Manager with at least 5 direct reports](https://github.com/QuXiangjie/Study-Review/issues/12)
+
+[585. Investments in 2016](https://github.com/QuXiangjie/Study-Review/issues/13)
 ## 英文
 
 ## 闲谈笔记
