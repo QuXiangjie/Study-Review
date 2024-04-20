@@ -9,6 +9,8 @@
 ## SQL
 [SQL Summary](https://github.com/QuXiangjie/Study-Review/issues/1#issue-2190108775)
 
+[SQL window functions](https://github.com/QuXiangjie/Study-Review/issues/15)
+
 [The order of SQL excution](https://github.com/QuXiangjie/Study-Review/issues/3)
 
 [Choose the Nthhighest score](https://github.com/QuXiangjie/Study-Review/issues/2#issue-2192501103)
@@ -28,6 +30,8 @@
 [550. Manager with at least 5 direct reports](https://github.com/QuXiangjie/Study-Review/issues/12)
 
 [585. Investments in 2016](https://github.com/QuXiangjie/Study-Review/issues/13)
+
+[1445. Organge and Apple](https://github.com/QuXiangjie/Study-Review/issues/14)_
 ## 英文
 
 ## 闲谈笔记
