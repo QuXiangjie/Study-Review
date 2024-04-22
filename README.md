@@ -34,5 +34,7 @@
 [1445. Organge and Apple](https://github.com/QuXiangjie/Study-Review/issues/14)_
 ## 英文
 
+[Vowel Sound / ɪ / as in "it" - American English Pronunciation](https://github.com/QuXiangjie/Study-Review/issues/16)
+
 ## 闲谈笔记
 [Key words in job searching](https://github.com/QuXiangjie/Study-Review/issues/5)
