@@ -6,6 +6,8 @@
 ## Excel
 [Excel table Initials](https://github.com/QuXiangjie/Study-Review/issues/7#issue-2206544892)
 
+[VBA-Beta function](https://github.com/QuXiangjie/Study-Review/issues/18)
+
 ## SQL
 [SQL Summary](https://github.com/QuXiangjie/Study-Review/issues/1#issue-2190108775)
 
