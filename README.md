@@ -37,6 +37,8 @@
 
 [605. Tree Node](https://github.com/QuXiangjie/Study-Review/issues/22)
 
+[626. Exchange Seats](https://github.com/QuXiangjie/Study-Review/issues/23)
+
 ## 英文
 
 [Vowel Sound / ɪ / as in "it" - American English Pronunciation](https://github.com/QuXiangjie/Study-Review/issues/16)
