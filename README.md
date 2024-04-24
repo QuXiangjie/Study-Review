@@ -39,6 +39,10 @@
 
 [626. Exchange Seats](https://github.com/QuXiangjie/Study-Review/issues/23)
 
+[1070.Product Sales Analysis III](https://github.com/QuXiangjie/Study-Review/issues/26)
+
+[1045. Customer who bought all the products](https://github.com/QuXiangjie/Study-Review/issues/25)
+
 ## 英文
 
 [Vowel Sound / ɪ / as in "it" - American English Pronunciation](https://github.com/QuXiangjie/Study-Review/issues/16)
