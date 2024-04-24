@@ -15,6 +15,9 @@
 
 [The order of SQL excution](https://github.com/QuXiangjie/Study-Review/issues/3)
 
+[SQL JOIN summary](https://github.com/QuXiangjie/Study-Review/issues/20)
+
+
 [Choose the Nthhighest score](https://github.com/QuXiangjie/Study-Review/issues/2#issue-2192501103)
 
 [Rank score](https://github.com/QuXiangjie/Study-Review/issues/4)
@@ -42,6 +45,9 @@
 [1070.Product Sales Analysis III](https://github.com/QuXiangjie/Study-Review/issues/26)
 
 [1045. Customer who bought all the products](https://github.com/QuXiangjie/Study-Review/issues/25)
+
+[602. Friends request II](https://github.com/QuXiangjie/Study-Review/issues/19)
+
 
 ## 英文
 
