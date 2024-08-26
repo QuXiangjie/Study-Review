@@ -48,6 +48,8 @@
 
 [602. Friends request II](https://github.com/QuXiangjie/Study-Review/issues/19)
 
+[Repeated Payments](https://github.com/QuXiangjie/Study-Review/issues/35)
+
 
 ## 英文
 
